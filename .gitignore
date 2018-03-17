@@ -8,6 +8,10 @@ Assembly-CSharp.csproj
 Assets/#Scenes
 Assets/Materials
 Assets/Prefab
+Assets/#Scenes.meta
+Assets/Materials.meta
+Assets/Prefab.meta
+Assets/Scripts.meta
 ProjectSettings
 Library
 obj/Debug
