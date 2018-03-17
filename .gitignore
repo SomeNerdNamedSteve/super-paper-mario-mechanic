@@ -1,0 +1,10 @@
+.vscode
+UnityPackageManager
+Mono
+CHANGELOG.md
+QAReport.md
+Something.sln
+Assembly-CSharp.csproj
+Assets/#Scenes
+Assets/Materials
+Assets/Prefab
