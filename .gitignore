@@ -8,3 +8,8 @@ Assembly-CSharp.csproj
 Assets/#Scenes
 Assets/Materials
 Assets/Prefab
+ProjectSettings
+Library
+obj/Debug
+UnityCrashHandler64.exe
+UnityPlayer.dll
